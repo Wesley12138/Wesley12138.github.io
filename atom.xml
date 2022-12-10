@@ -37,27 +37,6 @@
   </entry>
   
   <entry>
-    <title>news</title>
-    <link href="http://example.com/2021/04/28/news/"/>
-    <id>http://example.com/2021/04/28/news/</id>
-    <published>2021-04-28T04:34:56.000Z</published>
-    <updated>2021-10-02T02:49:15.403Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><ul><li>   2021-09-25&#x2003;    Take a business trip to Beijing</li><li>   2021-07-26&#x2003;    Take a business trip to Beijing</li><li>   2021-07-21&#x2003;    Start work at Xpeng as NLP Research Engineer</li><li>   2021-05-04&#x2003;    Complete “Deep Learning Specialization” on Coursera</li><li>   2021-05-01&#x2003;    Enjoy Cantonese songs at an outdoor concert “Cantopop Music Live”</li><li>   2021-04-30&#x2003;    Start</li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;   2021-09-25&amp;#x2003;    Take a business trip to Beijing</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>publications</title>
     <link href="http://example.com/2021/04/27/publications/"/>
     <id>http://example.com/2021/04/27/publications/</id>
@@ -70,6 +49,27 @@
       
       
     <summary type="html">&lt;h2 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h2&gt;&lt;p&gt;[1] &lt;strong&gt;Li, W.&lt;/strong&gt;, W</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>news</title>
+    <link href="http://example.com/2021/01/28/news/"/>
+    <id>http://example.com/2021/01/28/news/</id>
+    <published>2021-01-28T04:34:56.000Z</published>
+    <updated>2022-12-10T07:32:15.766Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><ul><li>   2022-10-09&#x2003;    Promoted to NLP Senior Algorithm Engineer</li><li>   2022-02-21&#x2003;    Take a business trip to Beijing</li><li>   2021-09-25&#x2003;    Take a business trip to Beijing</li><li>   2021-07-26&#x2003;    Take a business trip to Beijing</li><li>   2021-07-21&#x2003;    Start working at Xpeng as NLP Algorithm Engineer</li><li>   2021-05-04&#x2003;    Complete “Deep Learning Specialization” on Coursera</li><li>   2021-05-01&#x2003;    Enjoy Cantonese songs at an outdoor concert “Cantopop Music Live”</li><li>   2021-04-30&#x2003;    Start</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;   2022-10-09&amp;#x2003;    Promoted to NLP Senior Algorith</summary>
       
     
     
