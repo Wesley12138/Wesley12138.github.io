@@ -3,11 +3,11 @@
   <title>WESLEY PUB</title>
   
   <subtitle>wesley website</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wesley12138.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2023-04-19T15:43:58.919Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://wesley12138.github.io/"/>
+  <updated>2023-04-20T01:25:30.619Z</updated>
+  <id>https://wesley12138.github.io/</id>
   
   <author>
     <name>Wesley</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>about</title>
-    <link href="http://example.com/2021/04/29/about/"/>
-    <id>http://example.com/2021/04/29/about/</id>
-    <published>2021-04-29T04:34:56.000Z</published>
-    <updated>2023-04-19T15:43:58.919Z</updated>
+    <link href="https://wesley12138.github.io/2023/04/29/about/"/>
+    <id>https://wesley12138.github.io/2023/04/29/about/</id>
+    <published>2023-04-29T04:34:56.000Z</published>
+    <updated>2023-04-20T01:25:30.619Z</updated>
     
     <content type="html"><![CDATA[<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>I have completed my MSc study of Computational Statistics and Machine Learning at <a href="https://www.ucl.ac.uk/">University College London</a> (UCL), with the final performance of <strong>Distinction</strong>. Prior to this, I have been conferred a bachelor’s degree in Statistics at <a href="https://www.uic.edu.cn/en/">Beijing Normal University-Hong Kong Baptist University United International College</a> (UIC), with <strong>First Class</strong>. </p><p>The past years’ training has equipped me with a solid foundation in Machine Learning, and further stimulate my inner interest in the research of <strong>Natural Language Processing</strong>.</p><p>Like challenges and solving problems, and hope to achieve something significant; endlessly curious and seeking to extend my knowledge; can work with others in a team, but equally happy to concentrate on problems on my own.</p>]]></content>
     
@@ -38,10 +38,10 @@
   
   <entry>
     <title>news</title>
-    <link href="http://example.com/2021/04/28/news/"/>
-    <id>http://example.com/2021/04/28/news/</id>
-    <published>2021-04-28T04:34:56.000Z</published>
-    <updated>2023-04-19T15:55:51.523Z</updated>
+    <link href="https://wesley12138.github.io/2023/04/28/news/"/>
+    <id>https://wesley12138.github.io/2023/04/28/news/</id>
+    <published>2023-04-28T04:34:56.000Z</published>
+    <updated>2023-04-20T01:25:40.163Z</updated>
     
     <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><ul><li>   2023-04-05&#x2003;    Glad that a Full Paper has been Aceepted at SIGIR 2023</li><li>   2022-10-09&#x2003;    Promoted to NLP Senior Algorithm Engineer</li><li>   2022-02-21&#x2003;    Take a business trip to Beijing</li><li>   2021-09-25&#x2003;    Take a business trip to Beijing</li><li>   2021-07-26&#x2003;    Take a business trip to Beijing</li><li>   2021-07-21&#x2003;    Start working at Xpeng as NLP Algorithm Engineer</li><li>   2021-05-04&#x2003;    Complete “Deep Learning Specialization” on Coursera</li><li>   2021-05-01&#x2003;    Enjoy Cantonese songs at an outdoor concert “Cantopop Music Live”</li><li>   2021-04-30&#x2003;    Start</li></ul>]]></content>
     
@@ -59,10 +59,10 @@
   
   <entry>
     <title>publications</title>
-    <link href="http://example.com/2021/04/27/publications/"/>
-    <id>http://example.com/2021/04/27/publications/</id>
-    <published>2021-04-27T04:34:56.000Z</published>
-    <updated>2023-04-19T16:27:18.745Z</updated>
+    <link href="https://wesley12138.github.io/2023/04/27/publications/"/>
+    <id>https://wesley12138.github.io/2023/04/27/publications/</id>
+    <published>2023-04-27T04:34:56.000Z</published>
+    <updated>2023-04-20T01:25:45.918Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><p>[1] Peng, W., <strong>Li, W.</strong> (co-first author), Hu Y. (2023, April). <em>Leader-Generator Net: Dividing Skill and Implicitness for Conquering FairytaleQA.</em> Accpted at SIGIR 2023 (CCF A).</p><p>[2] <strong>Li, W.</strong>, Wang, X., &amp; Feng, Q. (2021, March). <em>Final Prediction of Product Quality in Batch Process based on Bidirectional Neural Network Algorithm.</em> In IOP Conference Series: Earth and Environmental Science (Vol. 692, No. 3, p. 032091). IOP Publishing.</p><p>[3] <strong>Li, W.</strong>, Liu, Y., &amp; Jiang, W. (2021, Feb). <em>Research on the Method of Screening Alarm Information of Secondary Equipment in Power System Based on Deep Learning NLP Technology.</em> Basic &amp; Clinical Pharmacology &amp; Toxicology, 128(S1), 89–90.  (Impact factor: 4.080)</p>]]></content>
     
